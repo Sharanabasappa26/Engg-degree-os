@@ -1,0 +1,6 @@
+semester,course_code,course_name,credits,syllabus,status
+3,CS301,Data Structures and Algorithms,4,Arrays; Linked Lists; Stacks; Queues; Trees; Graphs,In Progress
+3,CS302,Database Management Systems,4,ER Model; SQL; Normalization; Transactions,In Progress
+3,CS303,Operating Systems,4,Processes; Scheduling; Deadlocks; Memory,Not Started
+3,CS304,Computer Networks,3,OSI Model; TCP/IP; Routing; Security,Not Started
+3,CS305,Software Engineering,3,SDLC; Agile; UML; Testing,Not Started
