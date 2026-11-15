@@ -1,21 +1,6 @@
 semester,course_code,course_name,credits,syllabus,status
-1,MA101,Engineering Mathematics I,4,Matrices and Calculus,Completed
-1,PH101,Engineering Physics,4,Waves and Optics,Completed
-1,CS101,Programming Fundamentals,4,C Programming,Completed
-2,MA201,Engineering Mathematics II,4,Transforms and Probability,Completed
-2,CS201,Data Structures,4,Stacks Queues Trees,Completed
-2,EC201,Basic Electronics,3,Electronic Devices,Completed
-3,CS301,Data Structures and Algorithms,4,Trees and Graphs,In Progress
-3,CS302,Database Management Systems,4,SQL and Normalization,In Progress
-3,CS303,Computer Organization,4,CPU and Memory,In Progress
-3,MA301,Engineering Mathematics III,4,Differential Equations,In Progress
-4,CS401,Operating Systems,4,Processes and Scheduling,Not Started
-4,CS402,Computer Networks,4,Networking and Protocols,Not Started
-5,CS501,Software Engineering,4,Software Development Life Cycle,Not Started
-5,CS502,Theory of Computation,4,Automata and Formal Languages,Not Started
-6,CS601,Machine Learning,4,Supervised and Unsupervised Learning,Not Started
-6,CS602,Cloud Computing,4,Cloud Architecture,Not Started
-7,CS701,Project Phase I,4,Project Planning and Design,Not Started
-7,CS702,Internship,4,Industry Training,Not Started
-8,CS801,Project Phase II,8,Implementation and Evaluation,Not Started
-8,CS802,Professional Elective,3,Elective Subject,Not Started
+3,CS301,Data Structures and Algorithms,4,Arrays; Linked Lists; Stacks; Queues; Trees; Graphs,In Progress
+3,CS302,Database Management Systems,4,ER Model; SQL; Normalization; Transactions,In Progress
+3,CS303,Operating Systems,4,Processes; Scheduling; Deadlocks; Memory,Not Started
+3,CS304,Computer Networks,3,OSI Model; TCP/IP; Routing; Security,Not Started
+3,CS305,Software Engineering,3,SDLC; Agile; UML; Testing,Not Started
